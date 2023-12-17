@@ -1,6 +1,8 @@
 {
   "name": "startup-nextjs-template",
   "version": "0.2.0",
+  "home":"https://nebioudaniel.github.io/new/",
+  "deploy": "gh-pages -d build",
   "private": true,
   "scripts": {
     "dev": "next dev",
